@@ -2,16 +2,14 @@ package application;
 
 import java.util.Scanner;
 
-import boardgame.Position;
+import boardgame.Board;
 
 public class Program {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
-		Position position = new Position (5, 45);
-		
-		System.out.append(position.toString());
+		Board board = new Board(8,8);
 		
 		sc.close();
 
