@@ -1,5 +1,5 @@
 # ♟ Chess System Java ♟
-- ⚠ To start the game you have to go inside the *bin* folder and start *Git Bash* and write *"java application/Program"* ⚠
+####  ⚠ To start the game you have to go inside the *bin* folder and start *Git Bash* and write *"java application/Program"* ⚠
 
 ## Design do Site 
 <div align="center">
