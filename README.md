@@ -1,8 +1,8 @@
 # ♟ Chess System Java ♟
-####  ⚠ To start the game you have to go inside the *bin* folder and start *Git Bash* and write *"java application/Program"* ⚠
+### O objetivo deste projeto é criar um jogo de xadrez funcional em Java.
 
-## Tecnologias usadas
-- `Java`
+## Start Game
+>  To start the game you have to go inside the *bin* folder and start Git Bash *and write "java application/Program"* 
 
 ## Design do Jogo 
 <div align="center">
