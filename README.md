@@ -1,8 +1,8 @@
 # ♟ Chess System Java ♟
-### Ideia do Projeto: 
+### Ideia do Projeto 
 - O objetivo central deste projeto é desenvolver um jogo de xadrez plenamente funcional utilizando a linguagem de programação Java.
 
-### Start Game:
+### Start Game
 >  To start the game you have to go inside the *bin* folder and start Git Bash *and write "java application/Program"* 
 
 ## Design do Jogo 
